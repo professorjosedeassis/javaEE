@@ -1,6 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/javaEE)
 # Curso Java WEB Level 1 (Servlet - jsp - JDBC)
 Este curso é ideal para quem quer dar os primeiros passos no desenvolvimento WEB back-end ou full-stack usando a Linguagem Java. O principal objetivo é aprender as tecnologias usadas no desenvolvimento Java para WEB de forma prática desenvolvendo passo a passo do zero até a implantação um projeto de uma agenda de contatos.
+
 Tecnologias que serão usadas neste curso:
 * Servidor Tomcat
 * Java EE (J2EE) - Servlet e JSP
