@@ -1,8 +1,8 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/javaEE)
-# Curso Java WEB Level 1 (Servlet - jsp - JDBC)
-Este curso é ideal para quem quer dar os primeiros passos no desenvolvimento WEB back-end ou full-stack usando a Linguagem Java. O principal objetivo é aprender as tecnologias usadas no desenvolvimento Java para WEB de forma prática desenvolvendo passo a passo do zero até a implantação um projeto de uma agenda de contatos.
+# Java WEB Level 1 (Servlet - jsp - JDBC)
+Este tutorial é ideal para quem quer dar os primeiros passos no desenvolvimento WEB back-end ou full-stack usando a Linguagem Java. O principal objetivo é aprender as tecnologias usadas no desenvolvimento Java para WEB de forma prática desenvolvendo passo a passo do zero até a implantação um projeto de uma agenda de contatos.
 
-Tecnologias que serão usadas neste curso:
+Tecnologias que serão usadas neste tutorial:
 * Servidor Tomcat
 * Java EE (J2EE) - Servlet e JSP
 * IDE Eclipse
@@ -14,19 +14,19 @@ Tecnologias que serão usadas neste curso:
 * iText
 ### Autor
 Professor José de Assis
-### Apresentação do curso
+### Apresentação
 [![Curso básico - Java EE](http://img.youtube.com/vi/7VgWAxEkv_U/0.jpg)](https://youtu.be/7VgWAxEkv_U "Assistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/7VgWAxEkv_U?style=social)
 ### Playlist
-[Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz9AnwhrrOLz9cz1-TxoiUg)
+[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz9AnwhrrOLz9cz1-TxoiUg)
 ### Certificado
 [Iniciar teste](https://forms.gle/Dv8XcgBeFNDP1EUo6)
-## Como apoiar os cursos gratuitos e projetos?
+## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
-:heavy_check_mark: Compartilhar os cursos e projetos
+:heavy_check_mark: Compartilhar os tutoriais e projetos
 
 :heavy_check_mark: Seguir-me nas redes sociais:
 <p align="left">
