@@ -20,6 +20,10 @@ Professor José de Assis
 ![YouTube Video Views](https://img.shields.io/youtube/views/7VgWAxEkv_U?style=social)
 ### Playlist
 [Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz9AnwhrrOLz9cz1-TxoiUg)
+
+### Slides
+[JDBC](https://professorjosedeassis.github.io/infox/)
+
 ### Certificado
 [Iniciar teste](https://forms.gle/Dv8XcgBeFNDP1EUo6)
 ## Como apoiar os tutoriais e projetos?
