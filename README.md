@@ -22,7 +22,7 @@ Professor José de Assis
 [Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz9AnwhrrOLz9cz1-TxoiUg)
 
 ### Slides
-[JDBC](https://professorjosedeassis.github.io/infox/)
+[Java WEB](https://professorjosedeassis.github.io/javaEE/)
 
 ### Certificado
 [Iniciar teste](https://forms.gle/Dv8XcgBeFNDP1EUo6)
