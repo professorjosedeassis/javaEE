@@ -4,7 +4,7 @@ Este curso é ideal para quem quer dar os primeiros passos no desenvolvimento WE
 
 Tecnologias que serão usadas neste tutorial:
 * Servidor Tomcat
-* Java EE (J2EE) - Servlet e JSP
+* Java EE - Servlet e JSP
 * IDE Eclipse
 * JDBC (Java Database Connectivity)
 * MySQL CRUD
