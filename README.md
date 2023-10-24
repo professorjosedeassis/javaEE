@@ -11,7 +11,7 @@ Tecnologias que serão usadas neste tutorial:
 * JDBC (Java Database Connectivity)
 * MVC (Model View Controller)
 * JavaBeans
-* DAO
+* DAO (Data Access Object)
 * Uso da biblioteca iTextpdf para gerar listagem de contatos
 ### Autor
 Professor José de Assis
