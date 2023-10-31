@@ -20,10 +20,11 @@ Professor José de Assis
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/7VgWAxEkv_U?style=social)
 ### Iniciar curso:
-[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz9AnwhrrOLz9cz1-TxoiUg)
-
+▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqz9AnwhrrOLz9cz1-TxoiUg)
 ### Slide de apoio as aulas
 [Java WEB](https://professorjosedeassis.github.io/javaEE/)
+### Certificado deste curso:
+🎓 [Iniciar teste](https://docs.google.com/forms/d/e/1FAIpQLScRoU6ggamtI-wtJC8lxy8H9wu1FBRmtQubCT3wMKCcl8oUWw/viewform)
 ## Como apoiar os tutoriais e projetos?
 ### Você pode me pagar um café! ☕
 
