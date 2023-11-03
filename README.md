@@ -6,13 +6,15 @@ Tecnologias que serão usadas neste tutorial:
 * Criação de banco de dados e tabelas no MySQL
 * CRUD (Create Read Update e Delete)
 * Servidor Tomcat
-* Java EE - Servlet e JSP
+* Java EE
+* Servlet
+* jsp (Jva Server Pages)
 * IDE Eclipse
 * JDBC (Java Database Connectivity)
 * MVC (Model View Controller)
 * JavaBeans
 * DAO (Data Access Object)
-* Uso da biblioteca iTextpdf para gerar listagem de contatos
+* Uso da biblioteca iTextpdf para gerar um documento pdf
 ### Autor
 Professor José de Assis
 ### Apresentação
