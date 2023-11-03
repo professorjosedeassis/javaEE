@@ -8,7 +8,7 @@ Tecnologias que serão usadas neste tutorial:
 * Servidor Tomcat
 * Java EE
 * Servlet
-* jsp (Jva Server Pages)
+* jsp (Java Server Pages)
 * IDE Eclipse
 * JDBC (Java Database Connectivity)
 * MVC (Model View Controller)
