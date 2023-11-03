@@ -2,7 +2,7 @@
 # Java WEB Level 1 (Servlet - jsp - JDBC)
 Este curso é ideal para quem quer dar os primeiros passos no desenvolvimento WEB back-end ou full stack usando a Linguagem Java. O principal objetivo é aprender as tecnologias usadas no desenvolvimento Java para WEB de forma prática desenvolvendo um projeto de uma agenda de contatos passo a passo do "zero" até a implementação. 
 
-Tecnologias que serão usadas neste tutorial:
+Tecnologias que são abordadas neste tutorial:
 * Criação de banco de dados e tabelas no MySQL
 * CRUD (Create Read Update e Delete)
 * Servidor Tomcat
